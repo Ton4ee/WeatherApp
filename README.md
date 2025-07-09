@@ -14,7 +14,7 @@
 | **ImageBackground**         | To display dynamic weather-based background       |
 | **TouchableOpacity**        | For buttons and card interactions                 |
 | **ScrollView**              | For horizontal and vertical scrolling             |
-| **Expo Router** (optional)  | For project structure and routing (if used)       |
+
 
 📱 Tested On
 
