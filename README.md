@@ -62,3 +62,6 @@ Endpoints:
 /weather?q={city}
 
 /forecast?q={city}
+
+📣Creator
+Antonio Puceski
